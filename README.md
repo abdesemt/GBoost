@@ -1,8 +1,9 @@
 # GBoost
 Gboost is a tool for Boosting Discord Servers with Nitr0 T0kens.
 
-***Boost Your Server – Instantly!
-Want your server to stand out? Our Boost Tool gives you instant server boosts to unlock premium features like better audio quality, custom banners, more emojis, and increased upload limits. No waiting, no hassle – just instant upgrades to help your community grow and shine. Perfect for gaming clans, communities, and content creators!***
+***Boost Your Server – Instantly!***
+
+***Want your server to stand out? Our Boost Tool gives you instant server boosts to unlock premium features like better audio quality, custom banners, more emojis, and increased upload limits. No waiting, no hassle – just instant upgrades to help your community grow and shine. Perfect for gaming clans, communities, and content creators!***
 
 > [!TIP]
 > *Only Available B00ST Durations : `1 Month / 3 Months`*
