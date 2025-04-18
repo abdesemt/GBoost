@@ -1,4 +1,4 @@
-# GBoost
+# GBoost - Discord Server Boosting
 Gboost is a tool for Boosting Discord Servers with Nitr0 T0kens.
 
 ***Boost Your Server – Instantly!***
